@@ -6,9 +6,11 @@ for i in range (1, 10 +1):
         print(soma)
 '''''
 
+soma = 0
 for i in range (1, 10 +1):
-    numeros = int(input('Digite um numero por favor'))
+    numeros = int(input('Digite um numero por favor: '))
 
     if numeros % 2 == 0:
-        soma = numeros + i
-        print(soma)
+        soma = soma + numeros
+
+print(f'a soma é {soma}')

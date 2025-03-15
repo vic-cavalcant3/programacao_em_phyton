@@ -59,3 +59,15 @@ for i in range (0,10):
     soma = soma + n
     print(soma)
 '''
+
+contador = 0
+
+while contador < 5:
+    print(f'O contador é {contador}')
+    contador += 1
+    print('Loop concluído!')
+
+
+
+
+
