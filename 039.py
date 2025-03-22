@@ -3,11 +3,11 @@
 
 
 num = int(input('Digite um numero: '))
-fatorial = 1
+resultado = 1
 contador = num
 
 while contador >1:
-    fatorial *= contador
+    resultado = resultado * contador
     contador -= 1
 
-print(f'O fatorial de {num} é {fatorial}')
+print(f'O fatorial de {num} é {resultado}')

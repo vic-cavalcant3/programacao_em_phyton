@@ -58,7 +58,7 @@ for i in range (0,10):
     n = int(input('Digite um numero: '))
     soma = soma + n
     print(soma)
-'''
+
 
 contador = 0
 
@@ -67,6 +67,13 @@ while contador < 5:
     contador += 1
     print('Loop concluído!')
 
+#Parada com strings
+resposta = ''
+
+while resposta != 'N':
+    print('Bem vindo')
+    resposta = input('Deseja continua? [S/N]: ').upper().strip([0])
+'''
 
 
 
