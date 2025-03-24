@@ -6,7 +6,7 @@ Foi desenvolvido como parte do meu aprendizado no curso de Fundamentos de Python
 
 <br>
 
-##💻 Tecnologias Utilizadas 💻
+## 💻 Tecnologias Utilizadas 💻
 
 Python: Linguagem principal utilizada para resolver os exercícios, com foco em sintaxe e lógica.
 
